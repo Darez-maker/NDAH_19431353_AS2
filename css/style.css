@@ -15,8 +15,14 @@ body {
  
   
 }
+ 
+.wanted{
 
-
+    text-decoration: none;
+    font-size: 2.2rem;
+    cursor: pointer;
+    transition: all 400ms ease-in-out;
+}
 
 .logo {
   text-transform: uppercase;
@@ -30,6 +36,7 @@ span {
   font-weight: 1000;
   font-family: 'Raleway', sans-serif;
   text-shadow: 1px 1px 2px goldenrod;
+  font-family:  'Pacifico', cursive;
 }
 
 
