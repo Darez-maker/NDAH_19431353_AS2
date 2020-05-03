@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Raleway');
-
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
 * { 
   box-sizing: border-box; 
   padding: 0;
@@ -21,11 +21,15 @@ body {
 .logo {
   text-transform: uppercase;
   margin-bottom: 2rem;
+  text-shadow: 1px 1px 2px red;
+  font-family:  'Pacifico', cursive;
 }
 
 
 span {
-  font-weight: 700;
+  font-weight: 1000;
+  font-family: 'Raleway', sans-serif;
+  text-shadow: 1px 1px 2px goldenrod;
 }
 
 
