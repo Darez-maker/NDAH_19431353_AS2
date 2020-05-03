@@ -123,6 +123,7 @@ profile-info h2{
        color: red;
        border: 0.2px transparent;
        transition: ease-in-out 0.5s;
+     }
        img {
         border-style: none;
         border-radius: 100%;
