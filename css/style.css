@@ -7,7 +7,7 @@
 }
 
 body {
-  background: black;
+  background: white;
   
   font-family: 'Raleway', sans-serif;
   font-size: 1.2rem;
@@ -37,7 +37,7 @@ span {
   font-weight: 1000;
   font-family: 'Raleway', sans-serif;
   text-shadow: 1px 1px 2px goldenrod;
-  font-family:  'Pacifico', cursive;
+  
 }
 
 
@@ -98,7 +98,7 @@ img:hover {
  ;
     }
     h2{
-        color: blanchedalmond;
+        color: rgba(0, 0,0,0.8);
         position: relative;
         bottom: 0;
         right: 0;
@@ -111,7 +111,7 @@ img:hover {
 
     h1 {
         text-align: center;
-        color: blanchedalmond;
+        color: rgba(0, 0,0,0.8) ;
     }
     h3{
         color: gold;
@@ -120,7 +120,7 @@ img:hover {
     }
     /*footer section*/
     footer{
-    color: blanchedalmond;
+    color: rgba(0, 0,0,0.8);
     padding: 80px 25px;
     position: sticky;
     }
